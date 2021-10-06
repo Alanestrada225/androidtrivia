@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Androi Trivia</string>
+    <string name="Welcome">WELCOME</string>
+    <string name="appdevelopers">app developers</string>
+    <string name="devoloper1">2014680 Alan Estrada</string>
+    <string name="devoloper2">20197794 Angel Alvarez</string>
+    <string name="StartGame">Start Game</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Testyourknowledge">Test your knowledge?</string>
+    <string name="enteryourname">Enter your name</string>
+    <string name="letsGo">let´s GO</string>
+    <string name="following">following</string>
+    <string name="following2">following</string>
+    <string name="opcion1">PHP PYTHON</string>
+    <string name="opcion2">JAVA, C++, KOTLIN</string>
+    <string name="opcion3">SWIFT,OBJECTIVE-C</string>
+    <string name="opcion4">DO,FOR,WHILE</string>
+    <string name="opcion5">WHERE,FORED,DOWHILE</string>
+    <string name="opcion6">LOVE CYCLE</string>
+    <string name="opcion7">DRAWABLE</string>
+    <string name="opcion8">NAVIGATION</string>
+    <string name="opcion9">LAYOUT</string>
+    <string name="Question1">¿What languages does android studio use?</string>
+    <string name="Question2">¿What are the most used cycles?</string>
+    <string name="Question3">in which of the following folder options a new empty activity is created?</string>
+    <string name="Result">RESULT</string>
+
+</resources>

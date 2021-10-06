@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:src="@drawable/trivia"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50sp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:background="@color/LightGreen"
+        android:gravity="top"
+        android:text="@string/Testyourknowledge"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <EditText
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:hint="@string/enteryourname"
+         android:inputType="text"
+        android:layout_marginBottom="50sp"
+         />
+    <Button
+        android:id="@+id/lests_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/Red"
+        android:textColor="@color/black"
+        android:text="@string/letsGo"
+        android:textSize="20sp"
+
+
+        />
+
+</LinearLayout>
